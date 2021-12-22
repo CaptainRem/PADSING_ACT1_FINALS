@@ -1,0 +1,101 @@
+.navigation {
+    width: 100%;
+    height: 70px;
+    background-color:#17202A ;
+    font-size: 45px;
+    font-weight: bold;
+    color:orange;
+    left:0%;
+    position:relative;
+}
+.topleft {
+    font-family: Roboto;
+}
+  
+.icon {
+        height: 20px;
+        width: 50%;
+        background-color:#17202A;
+        position:absolute ;
+        right:0%;
+        top: 10%;
+        font-family: Roboto;
+}
+
+.fa-home {
+    color:#D0D3D4  ;
+    right:150px;
+    position: absolute;
+    top: 12%;
+}   
+
+.fa-user-circle {
+    color:#D0D3D4;
+    right:100px;
+    position: absolute;
+    top: 12%;
+}
+
+.fa-sign-out-alt {
+        color:#D0D3D4;
+        right:50px;
+        position: absolute;
+        top: 12%;
+    }
+
+.fa-address-card {
+    color:#D0D3D4 ;
+    right:0px;
+    position: absolute;
+    top: 12%;
+}
+
+.navi2 {
+    height: 15800px;
+    width: 100%;
+    left:0%;
+    top:0px;
+    /**background-image:url(HTML_CSS PROJECTS/matte.jpg); **/
+    background-color: #1F2833 ;
+    font-size: 25px;
+    font-family: Arial;
+
+ 
+}
+
+.Topics {
+    background-color:#1F2833 ;
+    height: 1600px;
+    width: 950px;
+    right:2%;
+    font-family: Arial;
+    position: absolute;
+}
+    
+.Apple {
+    font-size: 15px;
+    font-family: Arial;
+}    
+
+.Windows {
+    font-size: 15px;
+    font-family: Arial;
+}    
+
+.Android {
+    font-size: 15px;
+    font-family: Arial;
+}   
+
+
+
+/**.applebox {
+    height: 150px;
+    width: 17%;
+    background-color:#17202A;
+    position:absolute;
+    leftt:0%;
+    top: 30%;
+    font-family: Roboto;
+
+} **/
